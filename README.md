@@ -1,0 +1,1 @@
+# ETC-card-is-not-inserted
